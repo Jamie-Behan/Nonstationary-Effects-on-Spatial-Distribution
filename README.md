@@ -1,5 +1,5 @@
 # Nonstationary-Effects-on-Spatial-Distribution
-These sources are for reference to the sources utilized in Behan et al., 2021 (in internal review)
+These sources are for reference to the sources utilized in Behan et al., 2021
 
 The FVCOM data used in this study is publicly available at http://www.smast.umassd.edu:8080/thredds/catalog/models/fvcom/NECOFS/Archive/Seaplan_33_Hindcast_v1/catalog.html. 
 The forecasted anomaly data is publicly available at https://psl.noaa.gov/ipcc/ocn/. 
